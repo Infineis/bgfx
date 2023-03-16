@@ -192,7 +192,7 @@
 
 /// Enable use of tinystl.
 #ifndef BGFX_CONFIG_USE_TINYSTL
-#	define BGFX_CONFIG_USE_TINYSTL 1
+#	define BGFX_CONFIG_USE_TINYSTL 0
 #endif // BGFX_CONFIG_USE_TINYSTL
 
 /// Enable nVidia PerfHUD integration.
